@@ -10,3 +10,8 @@ Turno: Nocturno
 
 Carrera: ISC
 
+## Requerimientos
+1.-Git 
+
+## Reglas
+sin reglas
