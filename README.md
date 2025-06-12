@@ -11,7 +11,7 @@ Turno: Nocturno
 Carrera: ISC
 
 ## Requerimientos
-1.-Git 
+1.-Git Bash
 
 ## Reglas
 sin reglas
